@@ -1,0 +1,8 @@
+
+References
+1. Udacity, Final Project Sample Report, https://www.udacity.com/wiki/ud120/finalproject
+2. Scikit-learn documentation, Feature Selection, http://scikit-learn.org/stable/modules/feature_selection.html
+3. Scikit-learn documentation, Pipeline and FeatureUnion: combining estimators, http://scikit-learn.org/stable/modules/pipeline.html
+4. Scikit-learn documentation, Grid Search: Searching for estimator parameters, http://scikit-learn.org/stable/modules/grid_search.html
+5. Udacity, Enron POI Report Example.
+6. Alex Brazhenko, Udacity Nanodegree. Project 4. Identifying Fraud from Enron Email, https://github.com/alexbra/ud-nd-project4/blob/master/poi_id.py
